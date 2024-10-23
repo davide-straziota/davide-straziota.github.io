@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Physics, Padua University, 2019
 * M.S. in Complex Systems, Politecnico di Torino, ICTP, Sorbonne Univeristy, 2021
-* Ph.D in Statistics and Computer Science, Bocconi University, 2025 (expected)
+* Ph.D in Statistics and Computer Science, Bocconi University, 2025 (Expected)
 
 Work experience
 ======
