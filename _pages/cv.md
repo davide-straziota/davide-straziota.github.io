@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Physics, Padua University, 2019
+* M.S. in Complex Systems, Politecnico di Torino, ICTP, Sorbonne Univeristy, 2021
+* Ph.D in Statistics and Computer Science, Bocconi University, 2025 (expected)
 
 Work experience
 ======
