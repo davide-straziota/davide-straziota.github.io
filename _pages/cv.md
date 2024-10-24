@@ -32,4 +32,9 @@ Work experience
   * Bocconi University
   * Duties included: Sensitivity analysis, outliers detection, and dimensional reduction
   * Supervisor: Emanuele Borgonovo
+
+* 2023: Projects supervisor
+  * Bocconi University and AXA
+  * Duties included: supervision of machine learning and Network projects
   
+
