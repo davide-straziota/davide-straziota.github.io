@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "2023-2024 Teaching"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Bocconi University"
+date: 2023-2024
+location: "Milan, Italy"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+From 2023 to 2024 I was a teaching assistant for Mathematics, Statistics, Foundation of Physics I, and Advanced Programming and Optimization courses. The Applied mathematics course was an introductory course on real analysis. The Statistics one introduces the basic concepts of inference. The Foundation of Physics I is a course introducing traditional knowledge regarding forces, fluids, and thermodynamics
