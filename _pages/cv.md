@@ -28,8 +28,8 @@ Work experience
   * Research on Relevance and Resolution measures
   * Supervisor: Iacopo Mastromatteo
 
-*  2022: Research Assistant
+* 2022: Research Assistant
   * Bocconi University
-  * Duties included: Sensitivity analysis, outliers detection and dimensional reduction
+  * Duties included: Sensitivity analysis, outliers detection, and dimensional reduction
   * Supervisor: Emanuele Borgonovo
   
