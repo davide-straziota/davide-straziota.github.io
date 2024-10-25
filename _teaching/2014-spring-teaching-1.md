@@ -1,7 +1,7 @@
 ---
 title: "2023-2024 Teaching"
 collection: teaching
-type: "Graduate course"
+type: "University courses"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Bocconi University"
 location: "Milan, Italy"
