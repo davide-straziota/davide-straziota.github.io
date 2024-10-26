@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is Davide Straziota personal webpage
+I'm Davide Straziota, a 4th year phd student in statistics and computer science at Bocconi University. My research interests lie on the boundary between machine Learning and Statistical Physics. I focus on Stochastic Localization, Phase Retrieval, and Neural Network problems.
