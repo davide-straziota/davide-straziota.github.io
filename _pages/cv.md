@@ -36,5 +36,9 @@ Work experience
 * 2023: Projects supervisor
   * Bocconi University and AXA
   * Duties included: supervision of machine learning and Network projects
+
+* 2025: Visiting researcher
+  * Los Alamos National Laboratories
+  * Duties included: Working on Restricted Boltzmann Machine Learning 
   
 
