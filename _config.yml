@@ -180,13 +180,13 @@ collections:
     permalink: /:collection/:path/
   publications:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:publications/:path/
   # portfolio:
   #   output: false
   #   permalink: /:collection/:path/
   talks:
-    output: true
-    permalink: /:publications/:path/
+    output: false
+    permalink: /:collection/:path/
 
 
 # Defaults
