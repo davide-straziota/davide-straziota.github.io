@@ -186,7 +186,7 @@ collections:
   #   permalink: /:collection/:path/
   talks:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:publications/:path/
 
 
 # Defaults
