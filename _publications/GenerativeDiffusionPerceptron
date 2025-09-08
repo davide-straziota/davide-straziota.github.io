@@ -5,7 +5,7 @@ permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper investigates the Stochastic Localization for Perceptron Problems.'
 date: 17-05-2025
 venue: 'Arxiv'
-paperurl: '[link](https://arxiv.org/abs/2502.16292)'
+paperurl: 'https://arxiv.org/abs/2502.16292'
 citation: 'to be updated'
 ---
 We consider random instances of non-convex perceptron problems in the high-dimensional limit of a large number of examples  and weights N\to\infty, with finite load \alpha. We develop a formalism based on replica theory to predict the fundamental limits of efficiently sampling the solution space using generative diffusion algorithms, conjectured to be saturated when the score function is provided by Approximate Message Passing. For the spherical perceptron with negative margin k, we find that the uniform distribution over solutions can be efficiently sampled in most of the Replica Symmetric region of the  plane. In contrast, for binary weights, sampling from the uniform distribution remains intractable. A theoretical analysis of this obstruction leads us to identify a potential U(z)=-log(z), under which the corresponding tilted distribution becomes efficiently samplable via diffusion. Moreover, we show numerically that an annealing procedure over the shape of this potential yields a fast and robust Markov Chain Monte Carlo algorithm for sampling the solution space of the binary perceptron.
