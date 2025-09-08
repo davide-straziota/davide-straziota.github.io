@@ -1,6 +1,7 @@
 ---
 title: "Isolating the hard core of phaseless inference: the Phase selection formulation"
 collection: publications
+permalink: /publication/PhaseSelection
 excerpt: 'This paper presents the formulation of the Phase Selection problem'
 date: 2025-02-06
 venue: 'Journal of Statistical Mechanics'
